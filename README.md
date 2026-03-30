@@ -3,7 +3,7 @@
 ## Student Details
 
 **Name:** Aanchal Rath
-**Registration Number:** YOUR_REG_NO
+**Registration Number:** 24BAI10938
 **Course:** Open Source Software (NGMC)
 **Software Chosen:** Python
 
